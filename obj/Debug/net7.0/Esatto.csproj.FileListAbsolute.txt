@@ -1,0 +1,15 @@
+/Users/jakubkubicki/Desktop/PZ2/Esatto/bin/Debug/net7.0/Esatto
+/Users/jakubkubicki/Desktop/PZ2/Esatto/bin/Debug/net7.0/Esatto.deps.json
+/Users/jakubkubicki/Desktop/PZ2/Esatto/bin/Debug/net7.0/Esatto.runtimeconfig.json
+/Users/jakubkubicki/Desktop/PZ2/Esatto/bin/Debug/net7.0/Esatto.dll
+/Users/jakubkubicki/Desktop/PZ2/Esatto/bin/Debug/net7.0/Esatto.pdb
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/Esatto.csproj.AssemblyReference.cache
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/Esatto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/Esatto.AssemblyInfoInputs.cache
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/Esatto.AssemblyInfo.cs
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/Esatto.csproj.CoreCompileInputs.cache
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/Esatto.dll
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/refint/Esatto.dll
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/Esatto.pdb
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/Esatto.genruntimeconfig.cache
+/Users/jakubkubicki/Desktop/PZ2/Esatto/obj/Debug/net7.0/ref/Esatto.dll
