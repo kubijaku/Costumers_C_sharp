@@ -12,18 +12,28 @@ Program with ability to:
 #### Costumer:
 
 Attributes:
+
     public String name;
+    
     public int vat_id_number;
+    
     public DateTime creation_date;
+    
     public Address address;
 
 
 #### Address
 
 Attributes:
+
     public String city;
+    
     public String street;
+    
     public String postcode;
+    
     public int build_number;
+    
     public int? flat_number = null;
+    
 
