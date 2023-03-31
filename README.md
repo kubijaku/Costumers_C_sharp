@@ -7,10 +7,23 @@ Program with ability to:
 •         Delete customer,
 •         Create list of customers,
 
-## Classes:
+### Classes:
 
-### Costumer
+#### Costumer:
+
+Attributes:
+    public String name;
+    public int vat_id_number;
+    public DateTime creation_date;
+    public Address address;
 
 
-### Address
+#### Address
+
+Attributes:
+    public String city;
+    public String street;
+    public String postcode;
+    public int build_number;
+    public int? flat_number = null;
 
